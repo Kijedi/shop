@@ -1,0 +1,48 @@
+2018-07-17 13:46:59 - PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.  in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2018-07-17 13:46:59 - PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.  in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2018-07-17 13:46:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2018-07-17 13:46:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2018-07-17 13:47:58 - PHP Warning:  fopen(C:\xampp\htdocs\shop/storage/cache/cache.catalog.language.1531838878): failed to open stream: No such file or directory in C:\xampp\htdocs\shop\system\library\cache\file.php on line 49
+2018-07-17 13:47:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 51
+2018-07-17 13:47:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 53
+2018-07-17 13:47:58 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 55
+2018-07-17 13:47:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 57
+2018-07-17 13:47:58 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 59
+2018-07-17 13:47:58 - PHP Warning:  fopen(C:\xampp\htdocs\shop/storage/cache/cache.currency.1531838878): failed to open stream: No such file or directory in C:\xampp\htdocs\shop\system\library\cache\file.php on line 49
+2018-07-17 13:47:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 51
+2018-07-17 13:47:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 53
+2018-07-17 13:47:58 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 55
+2018-07-17 13:47:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 57
+2018-07-17 13:47:58 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shop\system\library\cache\file.php on line 59
+2018-07-17 14:51:42 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:51:42 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 14:54:16 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:54:16 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 14:56:24 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:56:24 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 14:56:39 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:56:39 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 14:57:03 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:57:03 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 14:57:12 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 14:57:12 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 15:12:29 - PHP Notice:  Undefined index: custom_code_js in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2227
+2018-07-17 15:12:29 - PHP Notice:  Undefined index: custom_code_css in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2230
+2018-07-17 15:12:36 - PHP Notice:  Undefined index: custom_code_js in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2227
+2018-07-17 15:12:36 - PHP Notice:  Undefined index: custom_code_css in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2230
+2018-07-17 15:12:41 - PHP Notice:  Undefined index: custom_code_js in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2227
+2018-07-17 15:12:41 - PHP Notice:  Undefined index: custom_code_css in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2230
+2018-07-17 16:19:11 - PHP Notice:  Undefined index: custom_code_js in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2227
+2018-07-17 16:19:11 - PHP Notice:  Undefined index: custom_code_css in C:\xampp\htdocs\shop\admin\controller\extension\module\venturo.php on line 2230
+2018-07-17 16:20:11 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 16:20:11 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-17 16:29:58 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 453
+2018-07-17 16:29:58 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop\admin\view\template\extension\module\megamenu.tpl on line 623
+2018-07-26 7:02:16 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2018-07-26 7:02:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2018-07-26 7:02:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2018-07-26 7:02:34 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2018-07-26 7:02:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2018-07-26 7:02:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
